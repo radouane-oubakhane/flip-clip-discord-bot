@@ -126,3 +126,8 @@ cython_debug/
 
 # picture
 *.png
+
+
+# Ignore database
+*.sqlite3
+*.db
